@@ -16,7 +16,6 @@
       
       We will start with maximum likelihood estimation of the parameters 𝜽. In maximum likelihood estimation, we find the parameters 𝜽 that maximize the likelihood 𝑝(𝒚|𝑿,𝜽)=∑𝑝(𝑦𝑛|𝒙𝑛,𝜽).
       The maximum likelihood estimator is given by 
-      
       𝜽=(X^T ∙ X)^−1 X^T ∙ y
       
       Define a linear regression model that is slightly more flexible : 
