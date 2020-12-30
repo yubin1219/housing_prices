@@ -19,4 +19,4 @@
       𝜽=(X^T ∙ X)^−1 X^T ∙ y
       
       Define a linear regression model that is slightly more flexible : 
-       𝑦 = Xaug^𝑇 ∙ 𝜽aug + 𝜖, Xaug=[1 𝒙], 𝜽aug = [𝜽0 𝜽1]^T
+       𝑦 = Xaug^𝑇 ∙ 𝜽aug + 𝜖, Xaug = [1 𝒙], 𝜽aug = [𝜽0 𝜽1]^T
